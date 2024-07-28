@@ -58,4 +58,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute this software in accordance with the terms of the license.
 
-For questions, suggestions, or further information, feel free to reach out. Thank you for using the Book Management System!
